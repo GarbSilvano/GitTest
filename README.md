@@ -1,2 +1,2 @@
 # GitTest
-test purpose
+panget si gabriel panget na panget
